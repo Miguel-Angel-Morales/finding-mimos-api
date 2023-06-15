@@ -1,0 +1,365 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Miguel Angel Morales",
+      "email": "AngelMoralesM10@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Santana",
+      "email": "CSantana@usa.gov"
+    },
+    {
+      "id": 3,
+      "name": "Lianne la Havas",
+      "email": "LianneLaHavas@yahoo.com"
+    },
+    {
+      "id": 4,
+      "name": "Slash",
+      "email": "Slash@netvibes.com"
+    },
+    {
+      "id": 5,
+      "name": "Gary Clark Jr.",
+      "email": "GCJGuitar8@gmail.com"
+    },
+    {
+      "email": "brinakay.miller55@gmail.com",
+      "fullName": "Brina Kay Miller",
+      "isStaff": false,
+      "id": 6
+    },
+    {
+      "email": "TashSultana@gmail.com",
+      "name": "",
+      "fullName": "Tash Sultana",
+      "id": 7
+    },
+    {
+      "email": "LizaMinelli@Gmail.com",
+      "name": "",
+      "fullName": "Liza Minelli ",
+      "id": 8
+    }
+  ],
+  "instruments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "AMERICAN ORIGINAL '50S TELECASTER",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "AMERICAN ORIGINAL '50S PRECISION BASS",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Roland TD-50",
+      "instrumentTypeId": 3
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "Roland Rd-2000",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "name": "Fender Hot Rod DeVille 410 III 3-Channel 60-Watt 4x10",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "name": "Fender Classic Series '72 Telecaster Thinline",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "name": "Yamaha TRBX174EW Mango Wood 4-String Electric Bass Natural",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "name": "Meinl Percussion Jumbo Bass Subwoofer Cajon - Walnut Frontplate",
+      "instrumentTypeId": 3
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "name": "Shure SM58",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "name": "YAMAHA STAGEPAS 600i PA SYSTEM",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686758457042,
+      "userId": 1,
+      "name": "Martin HD-28 Acoustic Guitar - Natural with Aging Toner 2017",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686758634325,
+      "userId": 1,
+      "name": "Kemper Profiler Head and Profiler Remote ",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 1686773725090,
+      "userId": 1,
+      "name": "Ibanez 5 String Bass Srx705 Natural",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 1686775484377,
+      "userId": 1,
+      "name": "Mesa/Boogie Rectifier Traditional 4x12\" - 240-watt Angled Extension Cabinet",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686775746651,
+      "userId": 1,
+      "name": "DW DWCP2010T 2000 Series Tambourine Foot Pedal",
+      "instrumentTypeId": 3
+    },
+    {
+      "id": 1686840750194,
+      "userId": 1,
+      "name": "B.C. Rich Mockingbird Masterpiece",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686846923104,
+      "userId": 2,
+      "name": "1950s Gibson Les Paul Special",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686846935127,
+      "userId": 2,
+      "name": "PRS SC245 Custom",
+      "instrumentTypeId": null
+    },
+    {
+      "id": 1686846950346,
+      "userId": 2,
+      "name": "Yamaha SG-2000",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686846980409,
+      "userId": 2,
+      "name": "1960s Les Paul Standard",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847033310,
+      "userId": 2,
+      "name": "Mesa Boogie Mark 1",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847049339,
+      "userId": 2,
+      "name": "",
+      "instrumentTypeId": null
+    },
+    {
+      "id": 1686847054528,
+      "userId": 2,
+      "name": "Fender Twin Reverb",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847066402,
+      "userId": 2,
+      "name": "Gallien-Krueger GMT 226A",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847078109,
+      "userId": 2,
+      "name": " Fender Princeton/Boogie",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847093492,
+      "userId": 2,
+      "name": " Universal Tone by Bludotone",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847107392,
+      "userId": 2,
+      "name": "Dumble Overdrive Reverb",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847287828,
+      "userId": 2,
+      "name": "Nittono Model-T Jazz Nylon",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847300454,
+      "userId": 2,
+      "name": "Alvarez Yairi CY127CE",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847504390,
+      "userId": 7,
+      "name": "FENDER JAZZMASTER",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847516027,
+      "userId": 7,
+      "name": "FENDER ’72 REISSUE THINLINE TELECASTER",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847528688,
+      "userId": 7,
+      "name": "FENDER JIMI HENDRIX SIGNATURE STRATOCASTER",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847544359,
+      "userId": 7,
+      "name": "FENDER RICHIE KOTZEN SIGNATURE TELECASTER",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847553687,
+      "userId": 7,
+      "name": "EPIPHONE LES PAUL CUSTOM PRO",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847564438,
+      "userId": 7,
+      "name": "MATON SRS70/C 12 STRING",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686847581656,
+      "userId": 7,
+      "name": "Vox AC30",
+      "instrumentTypeId": null
+    },
+    {
+      "id": 1686847586811,
+      "userId": 7,
+      "name": "Vox AC30",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847596648,
+      "userId": 7,
+      "name": "Fender Deluxe Reverb",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847608059,
+      "userId": 7,
+      "name": "Marshall JCM2000",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847620769,
+      "userId": 7,
+      "name": "TSL100 head",
+      "instrumentTypeId": null
+    },
+    {
+      "id": 1686847625312,
+      "userId": 7,
+      "name": "TSL100 head",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847642311,
+      "userId": 7,
+      "name": " Orange head",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686847682462,
+      "userId": 7,
+      "name": "KORG MICROKORG",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 1686847698368,
+      "userId": 7,
+      "name": "NORD ELECTRO 4",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 1686847714308,
+      "userId": 7,
+      "name": "ROLAND SP404SX",
+      "instrumentTypeId": 3
+    },
+    {
+      "id": 1686847837968,
+      "userId": 7,
+      "name": "Rickenbacker 4001",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 1686854254046,
+      "userId": 1,
+      "name": "Neuman Microphone u87 ai",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 1686854441328,
+      "userId": 8,
+      "name": "Fender Bass",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 1686854495876,
+      "userId": 8,
+      "name": "Sm 58 ",
+      "instrumentTypeId": 4
+    }
+  ],
+  "instrumentTypes": [
+    {
+      "id": 1,
+      "type": "Guitar"
+    },
+    {
+      "id": 2,
+      "type": "Basses & Ukuleles"
+    },
+    {
+      "id": 3,
+      "type": "Drum & Percussion"
+    },
+    {
+      "id": 4,
+      "type": "Microphones and Midi Instruments"
+    },
+    {
+      "id": 5,
+      "type": "Amps Cabinets & PAs"
+    }
+  ]
+}
