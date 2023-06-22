@@ -2,46 +2,53 @@
   "users": [
     {
       "id": 1,
-      "name": "Miguel Angel Morales",
+      "fullName": "Miguel Angel Morales",
       "email": "AngelMoralesM10@gmail.com"
     },
     {
       "id": 2,
-      "name": "Carlos Santana",
+      "fullName": "Carlos Santana",
       "email": "CSantana@usa.gov"
     },
     {
       "id": 3,
-      "name": "Lianne la Havas",
+      "fullName": "Lianne la Havas",
       "email": "LianneLaHavas@yahoo.com"
     },
     {
       "id": 4,
-      "name": "Slash",
+      "fullName": "Slash",
       "email": "Slash@netvibes.com"
     },
     {
       "id": 5,
-      "name": "Gary Clark Jr.",
+      "fullName": "Gary Clark Jr.",
       "email": "GCJGuitar8@gmail.com"
     },
     {
       "email": "brinakay.miller55@gmail.com",
       "fullName": "Brina Kay Miller",
-      "isStaff": false,
       "id": 6
     },
     {
       "email": "TashSultana@gmail.com",
-      "name": "",
       "fullName": "Tash Sultana",
       "id": 7
     },
     {
       "email": "LizaMinelli@Gmail.com",
-      "name": "",
       "fullName": "Liza Minelli ",
       "id": 8
+    },
+    {
+      "email": "DAVEGROHL@GMAIL.COM",
+      "fullName": "DAVE GROHL",
+      "id": 9
+    },
+    {
+      "email": "Coach@gmail.com",
+      "fullName": "Coach",
+      "id": 10
     }
   ],
   "instruments": [
@@ -338,6 +345,48 @@
       "userId": 8,
       "name": "Sm 58 ",
       "instrumentTypeId": 4
+    },
+    {
+      "id": 1686934549361,
+      "userId": 9,
+      "name": " Gibson Inspired By Dave Grohl DG-335 Electric Guitar",
+      "instrumentTypeId": 1
+    },
+    {
+      "id": 1686934566754,
+      "userId": 9,
+      "name": " Vox AC30 Guitar Combo Amp",
+      "instrumentTypeId": 5
+    },
+    {
+      "id": 1686934583715,
+      "userId": 9,
+      "name": "Shure SM58",
+      "instrumentTypeId": 4
+    },
+    {
+      "id": 1686934605337,
+      "userId": 9,
+      "name": "DW Custom Jazz Series (Custom Laser Blue)",
+      "instrumentTypeId": 3
+    },
+    {
+      "id": 1686934656595,
+      "userId": 9,
+      "name": "Epiphone Jack Casady Signature",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 1687190516488,
+      "userId": 1,
+      "name": "Makanu Muk-maho C Ukulele",
+      "instrumentTypeId": 2
+    },
+    {
+      "id": 1687291375487,
+      "userId": 10,
+      "name": "Tama Drumset 500",
+      "instrumentTypeId": 3
     }
   ],
   "instrumentTypes": [
