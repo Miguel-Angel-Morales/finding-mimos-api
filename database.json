@@ -85,7 +85,7 @@
     {
       "id": 6,
       "userId": 1,
-      "name": "Fender Classic Series '72 Telecaster Thinline",
+      "name": "Fender Classic Series '72 Telecaster Thinline ",
       "instrumentTypeId": 1
     },
     {
@@ -387,6 +387,12 @@
       "userId": 10,
       "name": "Tama Drumset 500",
       "instrumentTypeId": 3
+    },
+    {
+      "id": 1687550756111,
+      "userId": 1,
+      "name": "Yamaha A1 Acoustic",
+      "instrumentTypeId": 1
     }
   ],
   "instrumentTypes": [
